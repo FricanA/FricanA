@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @FricanA
-- 👀 I’m interested in cyber security, computer programming, machine learning (AI) reverse engineering etc.
-- 🌱 I’m currently learning computer networking, computer programming and legit hacking 
-- 💞️ I’m looking to collaborate with people passionate about IT like me
-- 📫 How to reach me ... hmm idk with my ip address
-- 
+Hey geeks and tech enthusiasts! I'm @FricanA, and I'm obsessed with cybersecurity, programming, artificial intelligence, and even legit hacking (it's a thing, I promise!). Right now, I'm diving into computer networks, coding, and some cool hacking stuff. If you're also passionate about all things tech, let's team up and spread the IT madness together! Oh, and to reach me, um... maybe through my IP address? 😄
 
 <!---
 FricanA/FricanA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
